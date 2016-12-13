@@ -1,0 +1,131 @@
+Middle East respiratory syndrome
+"MERS" redirects here. For other uses, see MERS (disambiguation).
+This article is about the disease. For the virus, see Middle East respiratory syndrome coronavirus.
+Middle East respiratory syndrome (MERS) is a viral respiratory infection caused by the newly identified MERS-coronavirus (MERS-CoV). MERS-CoV is a betacoronavirus derived from bats. Camels have been shown to have antibodies to MERS-CoV, but the exact source of infection in camels has not been identified. A strain of MERS-CoV known as HCoV-EMC/2012 found in the first person in London in 2012 was found to have a 100% match to Egyptian tomb bats.
+Signs and symptoms[edit]
+
+Early reports[1] compared the virus to severe acute respiratory syndrome (SARS), and it has been referred to as Saudi Arabia's SARS-like virus.[2] The first patient, in June 2012, had a "seven-day history of fever, cough, expectoration, and shortness of breath."[1] One review of 47 laboratory confirmed cases in Saudi Arabia gave the most common presenting symptoms as fever in 98%, cough in 83%, shortness of breath in 72% and myalgia in 32% of patients. There were also frequent gastrointestinal symptoms with diarrhea in 26%, vomiting in 21%, abdominal pain in 17% of patients. 72% of patients required mechanical ventilation. There were also 3.3 males for every female.[3] One study of a hospital based outbreak of MERS had an estimated incubation period of 5.5 days (95% confidence interval 1.9 to 14.7 days).[4] MERS can range from asymptomatic disease to severe pneumonia leading to the acute respiratory distress syndrome (ARDS).[3] Kidney failure, disseminated intravascular coagulation (DIC) and pericarditis have also been reported.[5]
+
+Transmission[edit]
+
+Camels[edit]
+
+A study performed between 2010 and 2013, in which the incidence of MERS was evaluated in 310 dromedary camels, revealed high titers of neutralizing antibodies to MERS-CoV in the blood serum of these animals.[6] A further study sequenced MERS-CoV from nasal swabs of dromedary camels in Saudi Arabia and found they had sequences identical to previously sequenced human isolates. Some individual camels were also found to have more than one genomic variant in their nasopharynx.[7] There is also a report of a Saudi Arabian man who became ill seven days after applying topical medicine to the noses of several sick camels and later he and one of the camels were found to have identical strains of MERS-CoV.[8][9] It is still unclear how the virus is transmitted from camels to humans. The World Health Organization advises avoiding contact with camels and to eat only fully cooked camel meat, pasteurized camel milk, and to avoid drinking camel urine. Camel urine is considered a medicine for various illnesses in the Middle East.[10] The Saudi Ministry of Agriculture has advised people to avoid contact with camels or wear breathing masks when around them.[11] In response "some people have refused to listen to the government's advice"[12] and kiss their camels in defiance of their government's advice.
+
+Person to person[edit]
+
+There has been evidence of limited, but not sustained spread of MERS-CoV from person to person, both in households as well as in health care settings like hospitals.[4][13] Most transmission has occurred "in the circumstances of close contact with severely ill patients in healthcare or household settings" and there is no evidence of transmission from asymptomatic cases.[14] Cluster sizes have ranged from 1 to 26 people, with an average of 2.7.[15]
+
+Diagnosis[edit]
+
+The World Health Organization (WHO) publishes laboratory guidance, surveillance and investigation, case definition, and other materials on its website. The current interim case definition is that a confirmed case is identified in a person with a positive lab test by "molecular diagnostics including either a positive PCR on at least two specific genomic targets or a single positive target with sequencing on a second."[16]
+
+World Health Organization[edit]
+
+According to the WHO, a probable case is[16]
+a person with a fever, respiratory infection, and evidence of pneumonia or acute respiratory distress syndrome
+and
+ testing for MERS-CoV is unavailable or negative on a single inadequate specimen
+and
+ the person has a direct link with a confirmed case.
+A person with a acute febrile respiratory illness with clinical, radiological, or histopathological evidence of pulmonary parenchymal disease (e.g. pneumonia or acute respiratory distress Syndrome)
+and
+ an inconclusive MERS-CoV laboratory test (that is, a positive screening test without confirmation)
+and
+ a resident of or traveler to Middle Eastern countries where MERS-CoV virus is believed to be circulating in the 14 days before onset of illness.
+A person with an acute febrile respiratory illness of any severity
+and
+ an inconclusive MERS-CoV laboratory test (that is, a positive screening test without confirmation)
+and
+ the patient has a direct epidemiologic-link with a confirmed MERS-CoV case.
+
+In the United States, the Centers for Disease Control and Prevention (CDC) recommend investigating any person with:[17][18]
+Fever and pneumonia or acute respiratory distress syndrome (based on clinical or radiological evidence)
+and either: a history of travel from countries in or near the Arabian Peninsula within 14 days before symptom onset, or
+close contact with a symptomatic traveler who developed fever and acute respiratory illness (not necessarily pneumonia) within 14 days after traveling from countries in or near the Arabian Peninsula or
+a member of a cluster of patients with severe acute respiratory illness (e.g. fever and pneumonia requiring hospitalization) of unknown etiology in which MERS-CoV is being evaluated, in consultation with state and local health departments.
+
+Fever and symptoms of respiratory illness (not necessarily pneumonia; e.g. cough, shortness of breath) and being in a healthcare facility (as a patient, worker, or visitor) within 14 days before symptom onset in a country or territory in or near the Arabian Peninsula in which recent healthcare-associated cases of MERS have been identified.
+Fever or symptoms of respiratory illness (not necessarily pneumonia; e.g. cough, shortness of breath) and close contact with a confirmed MERS case while the case was ill.
+
+Radiology[edit]
+
+Chest X-ray findings tend to show bilateral patchy infiltrates consistent with viral pneumonitis and ARDS. Lower lobes tend to be more involved. CT scans show interstitial infiltrates.[13]
+
+Laboratory testing[edit]
+
+MERS cases have been reported to have low white blood cell count, and in particular low lymphocytes.[13]
+
+For PCR testing, the WHO recommends obtaining samples from the lower respiratory tract via bronchoalveolar lavage (BAL), sputum sample or tracheal aspirate as these have the highest viral loads.[19] There have also been studies utilizing upper respiratory sampling via nasopharyngeal swab.[3]
+
+Several highly sensitive, confirmatory real-time RT-PCR assays exist for rapid identification of MERS-CoV from patient-derived samples. These assays attempt to amplify upE (targets elements upstream of the E gene),[20] open reading frame 1B (targets the ORF1b gene)[20] and open reading frame 1A (targets the ORF1a gene).[21] The WHO recommends the upE target for screening assays as it is highly sensitive.[19] In addition, hemi-nested sequencing amplicons targeting RdRp (present in all coronaviruses) and nucleocapsid (N) gene[22] (specific to MERS-CoV) fragments can be generated for confirmation via sequencing. Reports of potential polymorphisms in the N gene between isolates highlight the necessity for sequence-based characterization.
+
+The WHO recommended testing algorithm is to start with an upE RT-PCR and if positive confirm with ORF 1A assay or RdRp or N gene sequence assay for confirmation. If both an upE and secondary assay are positive it is considered a confirmed case.[19]
+
+Protocols for biologically safe immunofluorescence assays (IFA) have also been developed; however, antibodies against betacoronaviruses are known to cross-react within the genus. This effectively limits their use to confirmatory applications.[21] A more specific protein-microarray based assay has also been developed that did not show any cross-reactivity against population samples and serum known to be positive for other betacoronaviruses.[23] Due to the limited validation done so far with serological assays, WHO guidance is that "cases where the testing laboratory has reported positive serological test results in the absence of PCR testing or sequencing, are considered probable cases of MERS-CoV infection, if they meet the other conditions of that case definition."[19]
+
+Prevention[edit]
+
+While the mechanism of spread of MERS-CoV is currently not known, based on experience with prior coronaviruses, such as SARS, the WHO currently recommends that all individuals coming into contact with MERS suspects should (in addition to standard precautions):
+Wear a medical mask
+Wear eye protection (i.e. goggles or a face shield)
+Wear a clean, non sterile, long sleeved gown; and gloves (some procedures may require sterile gloves)
+Perform hand hygiene before and after contact with the patient and his or her surroundings and immediately after removal of personal protective equipment (PPE)[24]
+
+For procedures which carry a risk of aerosolization, such as intubation, the WHO recommends that care providers also:
+Wear a particulate respirator and, when putting on a disposable particulate respirator, always check the seal
+Wear eye protection (i.e. goggles or a face shield)
+Wear a clean, non-sterile, long-sleeved gown and gloves (some of these procedures require sterile gloves)
+Wear an impermeable apron for some procedures with expected high fluid volumes that might penetrate the gown
+Perform procedures in an adequately ventilated room; i.e. minimum of 6 to 12 air changes per hour in facilities with a mechanically ventilated room and at least 60 liters/second/patient in facilities with natural ventilation
+Limit the number of persons present in the room to the absolute minimum required for the patient¡¯s care and support
+Perform hand hygiene before and after contact with the patient and his or her surroundings and after PPE removal.[24]
+
+The duration of infectivity is also unknown so it is unclear how long patients must be isolated, but current recommendations are for 24 hours after resolution of symptoms. In the SARS outbreak the virus was not cultured from patients after the resolution of their symptoms.[25]
+
+It is believed that the existing SARS research may provide a useful template for developing vaccines and therapeutics against a MERS-CoV infection.[26][27] Vaccine candidates are currently awaiting clinical trials.[28][29]
+
+Treatment[edit]
+
+Although MERS-CoV has been shown to antagonize endogenous interferon production, treatment with exogenous types I and III IFN (IFN-¥á and IFN-¥ë, respectively) have effectively reduced viral replication in vitro.[30] When rhesus macaques were given interferon-¥á2b and ribavirin and exposed to MERS, they developed less pneumonia than control animals.[31] Five critically ill patients with MERS in Saudi Arabia with ARDS and on ventilators were given interferon-¥á2b and ribavirin but all ended up dying of the disease. The treatment was started late in their disease (a mean of 19 days after hospital admission) and they had already failed trials of steroids so it remains to be seen whether it may have benefit earlier in the course of disease.[32][33] Another proposed therapy is inhibition of viral protease[34] or kinase enzymes.[35] Researchers are investigating a number of ways to combat the outbreak of Middle East respiratory syndrome coronavirus, including using interferon, chloroquine, chlorpromazine, loperamide, and lopinavir,[36] as well as other agents such as mycophenolic acid[37][38] and camostat.[39][40]
+
+Epidemiology[edit]
+
+See also: 2012 Middle East respiratory syndrome coronavirus outbreak
+
+Philippines[edit]
+
+In April 2014, MERS emerged in the Philippines with a suspected case of a home bound OFW (overseas foreign worker). Several suspected cases involving individuals who were on the same flight as the initial suspected case are being tracked but are believe to have dispersed throughout the country. Another suspected MERS-involved death in Sultan Kudarat province caused the Department of Health (DOH) to put out an alert.[41][42][43][44]
+
+Saudi Arabia[edit]
+
+MERS was also implicated in an outbreak in April 2014 in Saudi Arabia, where MERS has infected 688 people and 282 MERS-related deaths have been reported since 2012.[45] In response to newly reported cases and deaths, and the resignation of four doctors at Jeddah¡¯s King Fahd Hospital who refused to treat MERS patients for fear of infection, the government has removed the Minister of Health and set up three MERS treatment centers.[46][47] 18 more cases were reported in early May.[48] In June 2014, Saudi Arabia announced 113 previously unreported cases of MERS, revising the death toll to 282.
+
+United States[edit]
+
+On 2 May 2014, the Centers for Disease Control and Prevention (CDC) confirmed the first diagnosis of MERS in the United States in Indiana. The man diagnosed was a health care worker who had been in Saudi Arabia a week earlier, and was reported to be in good condition.[49][50] A second patient who also traveled from Saudi Arabia was reported in Orlando, Florida on 12 May 2014.[51][52] On 14 May 2014, officials in the Netherlands reported the first case has appeared.[53] On Saturday, May 17, 2014, a man from Illinois who was a business associate of the first U.S. case (he had met and shook hands with the Indiana health care worker) tested positive for the MERS coronavirus, but has not, as of yet, displayed symptoms (others are probably also, at least temporarily if not permanently, non-symptomatic carriers). The CDC's Dr. David Swerdlow, who is leading the agency's response, said the man, who feels well and has not yet sought and does not yet need medical care, has not been deemed an official case yet and prevention guidelines have not changed. Laboratory tests showed evidence of past infection in his blood.[54]
+
+
+South Korea[edit]
+
+Main article: 2015 Middle East respiratory syndrome outbreak in South Korea
+
+In May 2015, the first case in South Korea was confirmed in a man who had visited several Middle Eastern countries.[55] Another man from South Korea, who was travelling to China, was diagnosed as the first case in China. So far, no Chinese citizen has been found infected.[56]
+
+As of 9 June 2015, seven people in South Korea have died from this outbreak, with 95 confirmed cases of infection. There have been at least 2,892 quarantined.
+
+History[edit]
+
+Collaborative efforts were used in the identification of the MERS-CoV.[63] Egyptian virologist Dr. Ali Mohamed Zaki isolated and identified a previously unknown coronavirus from the lungs of a 60-year-old Saudi Arabian man with pneumonia and acute renal failure.[1] After routine diagnostics failed to identify the causative agent, Zaki contacted Ron Fouchier, a leading virologist at the Erasmus Medical Center (EMC) in Rotterdam, the Netherlands, for advice.[64] Fouchier sequenced the virus from a sample sent by Zaki.
+
+Fouchier used a broad-spectrum "pan-coronavirus" real-time polymerase chain reaction (RT-PCR) method to test for distinguishing features of a number of known coronaviruses (such as OC43, 229R, NL63, and SARS-CoV), as well as for RNA-dependent RNA polymerase (RdRp), a gene conserved in all coronaviruses known to infect humans. While the screens for known coronaviruses were all negative, the RdRp screen was positive.[63]
+
+On 15 September 2012, Dr. Zaki's findings were posted on ProMED-mail, the Program for Monitoring Emerging Diseases, a public health on-line forum.[65]
+
+The United Kingdom's Health Protection Agency (HPA) confirmed the diagnosis of severe respiratory illness associated with a new type of coronavirus in a second patient, a 49-year-old Qatari man who had recently been flown into the UK. He died from an acute, serious respiratory illness in a London hospital.[63][66] In September 2012, the UK HPA named it the London1 novel CoV/2012 and produced the virus' preliminary phylogenetic tree, the genetic sequence of the virus[67] based on the virus's RNA obtained from the Qatari case.[2][68]
+
+On 25 September 2012, the WHO announced that it was "engaged in further characterizing the novel coronavirus" and that it had "immediately alerted all its Member States about the virus and has been leading the coordination and providing guidance to health authorities and technical health agencies."[69] The Erasmus Medical Center (EMC) in Rotterdam "tested, sequenced and identified" a sample provided to EMC virologist Ron Fouchier by Ali Mohamed Zaki in November 2012.[70]
+
+On 8 November 2012 in an article published in the New England Journal of Medicine, Dr. Zaki and co-authors from the Erasmus Medical Center published more details, including a tentative name, Human Coronavirus-Erasmus Medical Center (HCoV-EMC), the virus¡¯s genetic makeup, and closest relatives (including SARS).[1]
+
+In May 2013, the Coronavirus Study Group of the International Committee on Taxonomy of Viruses adopted the official designation, the Middle East Respiratory Syndrome Coronavirus (MERS-CoV), which was adopted by WHO to "provide uniformity and facilitate communication about the disease."[71] Prior to the designation, WHO had used the non-specific designation 'Novel coronavirus 2012' or simply 'the novel coronavirus'.[72]
